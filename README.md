@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Go to the app](https://bilalsarimeseli.github.io/MyRecipeApp/)
 
-##Screenshot
+## Screenshot
+
+[Here is how it looks](https://github.com/bilalsarimeseli/MyRecipeApp/blob/master/public/Screen%20Shot%202020-02-23%20at%209.14.23%20AM.png?raw=true)
+
 
 
